@@ -1,1 +1,1 @@
-# gcp_workshop_botstrapping
+# gcp_workshop_bootstrapping
